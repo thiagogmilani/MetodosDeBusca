@@ -1,0 +1,18 @@
+i;a 3,b 4,n 12,l 5
+a;b 3
+b;c 4,t 11
+c;d 3,e 3
+d;e 2
+e;g 3
+g;h 3,k 3
+h;k 2
+k;f 8
+f;w 8,m 8
+w;t 3
+t;s 4,v 7
+s;r 2
+r;q 2
+q;p 2
+p;n 3,u 3
+u;v 2
+l;m 27
